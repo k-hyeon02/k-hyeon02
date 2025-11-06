@@ -42,7 +42,7 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k._.hyeon_&layout=compact&theme=dark)](https://github.com/k-hyeon02)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-hyeon02_&layout=compact&theme=dark)](https://github.com/k-hyeon02)
 
 **Framework:**
 <br>
