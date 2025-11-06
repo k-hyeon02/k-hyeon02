@@ -23,9 +23,9 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
 
 ### 💻 Activities
 
-* '2025.09~CURRENT' **Computational Nanophysics Lab** (KHU) Undergraduate Researcher
-* '2024.07~2024.08' **Quantum + Chips Internship** (University of Minnesota, UMN) Research Intern
-* '2021.03~2027.02(expected)' **KyungHee Univ.**
+* `2025.09~CURRENT` **Computational Nanophysics Lab** (KHU) Undergraduate Researcher
+* `2024.07~2024.08` **Quantum + Chips Internship** (University of Minnesota, UMN) Research Intern
+* `2021.03~2027.02(expected)` **KyungHee Univ.**
       * B.S in Department of Physics (Major)
       * Minor in Science Information Convergence  
 ---
