@@ -10,7 +10,7 @@ I'm an undergraduate student at KyungHee University with a passion for applying 
     - GNN & Graph Mining
     - Network Science & Recommender Systems
     - Scientific Data Mining / ML
-    - Complex System
+    - Data Visualization
 
 * Computational Physics/Materials Science
     - DFT Principles
